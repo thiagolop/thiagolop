@@ -8,6 +8,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagolop&show_icons=true&theme=dark)  _ . . . . _  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolop&layout=compact&theme=dark)](https://github.com/thiagolop/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagolop&show_icons=true&theme=dark)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolop&layout=compact&theme=dark)](https://github.com/thiagolop/github-readme-stats)
 
 
