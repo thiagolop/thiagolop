@@ -5,7 +5,7 @@ Sou desenvolvedor mobile com foco em Flutter e apaixonado por criar soluções i
 **Sobre mim**
 - 🎓 Educação: Bacharel em Ciência e Tecnologia (UFERSA) e estudante de Engenharia de Computação (UFERSA).
 - 🛠 Experiência Profissional: Líder de desenvolvimento na Chegou Mercado, com participação ativa em todos os ciclos de desenvolvimento, desde a concepção até o deploy. Publicamos dois aplicativos principais: Chegou Mercado e Chegou Entregador, além de um sistema de gestão completo integrado aos apps.
--🌱 Atualmente aprendendo: Constantemente aprimorando minhas habilidades em desenvolvimento mobile, otimização de performance e melhores práticas em CI/CD.
+- 🌱 Atualmente aprendendo: Constantemente aprimorando minhas habilidades em desenvolvimento mobile, otimização de performance e melhores práticas em CI/CD.
 Habilidades Técnicas ⚡
 Flutter
 
