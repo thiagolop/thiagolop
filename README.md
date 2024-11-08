@@ -20,7 +20,9 @@ Flutter
 -Performance: Boas práticas de otimização para Flutter
 - CI/CD e Deploy: Experiência em processos de deploy na Play Store e App Store
 - Documentação: Criação de documentação de arquitetura e padrões de projeto
-Meus Projetos no GitHub
+  
+**Meus Projetos no GitHub**
+
 Devido ao trabalho na Chegou Mercado, a maioria dos meus repositórios são privados, mas estou sempre desenvolvendo e testando novas ideias e soluções aqui. Confira abaixo um resumo do meu GitHub e algumas das linguagens que utilizo com frequência:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagolop&show_icons=true&theme=dark)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolop&layout=compact&theme=dark)](https://github.com/thiagolop/github-readme-stats)
