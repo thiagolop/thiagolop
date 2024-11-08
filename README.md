@@ -1,8 +1,8 @@
-Olá! 👋 Seja bem-vindo(a) ao meu GitHub
+**Olá! 👋 Seja bem-vindo(a) ao meu GitHub**
 
 Sou desenvolvedor mobile com foco em Flutter e apaixonado por criar soluções inovadoras e eficientes. Desde 2023, sou o responsável pelo desenvolvimento dos aplicativos na Chegou Mercado, onde lidero a criação e manutenção de aplicativos internos e de entrega, todos com integração de funcionalidades avançadas, como gestão de estoque, BI, e muito mais.
 
-Sobre mim
+**obre mim**
 - 🎓 Educação: Bacharel em Ciência e Tecnologia (UFERSA) e estudante de Engenharia de Computação (UFERSA).
 - 🛠 Experiência Profissional: Líder de desenvolvimento na Chegou Mercado, com participação ativa em todos os ciclos de desenvolvimento, desde a concepção até o deploy. Publicamos dois aplicativos principais: Chegou Mercado e Chegou Entregador, além de um sistema de gestão completo integrado aos apps.
 -🌱 Atualmente aprendendo: Constantemente aprimorando minhas habilidades em desenvolvimento mobile, otimização de performance e melhores práticas em CI/CD.
